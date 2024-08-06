@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/flashfacts/static/css/main.d28c5012.css",
+    "main.js": "/flashfacts/static/js/main.813e9935.js",
+    "index.html": "/flashfacts/index.html",
+    "main.d28c5012.css.map": "/flashfacts/static/css/main.d28c5012.css.map",
+    "main.813e9935.js.map": "/flashfacts/static/js/main.813e9935.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d28c5012.css",
+    "static/js/main.813e9935.js"
+  ]
+}

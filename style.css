@@ -1,0 +1,108 @@
+/* GLOBAL TAGS */
+body {
+  font-family: 'Libre Baskerville', serif;
+  position: relative;
+}
+
+hr {
+  border-color: black;
+  border-width: 1px;
+}
+
+/* for projects section*/
+li {
+  padding: 0.25rem;
+}
+a {
+  text-decoration: none;
+}
+
+/* NAVBAR */
+.scroll-top .navbar {
+  background-color: transparent !important;
+}
+.navbar a {
+  color: lightgray;
+}
+.navbar a:hover {
+  color: white;
+}
+
+/* HERO SECTION */
+#name-header {
+  padding-bottom: 1.25rem;
+  margin-top: 1.3rem;
+  font-size: 3.0rem;
+}
+#name {
+  transition-duration: 0.5s;
+  font-size: 300%;
+}
+#name:hover {
+  transform: scale(1.35);
+}
+header#home {
+  background: rgb(33,37,41);
+  background: linear-gradient(360deg, rgba(33,37,41,1) 0%, rgba(0,0,0,1) 100%);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed, fixed;
+  width: 100%;
+  height: 100vh;
+  padding: 10%;
+  color: white;
+}
+.hero-content {
+  margin: auto;
+  padding: auto;
+  padding-top: 20%;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  color: white;
+}
+#hero-link {
+  color: white;
+  font-size: 4.5rem;
+}
+#hero-link-small {
+  color: white;
+  font-size: 18vh;
+  margin-bottom: 10%;
+}
+#hero-link-med {
+  color: white;
+  margin-bottom: 5%;
+  font-size: 20vh;
+}
+#name-header-med {
+  font-size: 3rem; 
+}
+
+
+
+/* PROJECTS */
+#project-target {
+  position: relative;
+  top: -50px;
+}
+#projects-header {
+  padding: 2%;
+}
+#projects-section {
+  background-color: #ffffff;
+  padding-bottom: 3%;
+}
+#centered-container {
+  text-align: center;
+}
+#projects-list {
+  display: inline-block;
+  text-align: left;
+}
+
+/* FOOTER */
+#footnote {
+  color: white;
+}
+
