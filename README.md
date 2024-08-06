@@ -1,2 +1,2 @@
 # akfiveseven.github.io
-Fresh repo (removed personal data)
+New code repository (had to delete old one due to personal information) for my personal website.
